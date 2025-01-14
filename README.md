@@ -1,9 +1,8 @@
 # docx-fixer
 fix broken .docx file automatically
 
-## Introduction
 
-# Fix Word XML Errors
+## Fix Word XML Errors
 
 This repository provides a Python script for fixing corrupted or invalid XML files embedded in Microsoft Word `.docx` documents. The script automates the process of identifying, repairing, and replacing problematic XML content within Word files.
 
